@@ -55,7 +55,7 @@ dkms.conf
 
 # Other
 a3
-
+dist/
 
 
 
