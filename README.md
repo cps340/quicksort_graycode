@@ -16,6 +16,6 @@
 **To run the graycode algorithm:**
 
 1. cd into the projects root folder.
-2. Run *python graycode.py #*.
-	* # is the value for n. The graycode will build elements of this length.
+2. Run *python graycode.py ?*.
+	* ? is the value for n. The graycode will build elements of this length.
 	* Example, *python graycode.py 3* will output 000, 001, 011, ... while *python graycode.py 2* will output 00, 01, 11, 10.
